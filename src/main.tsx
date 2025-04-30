@@ -1,9 +1,9 @@
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
-import Habitat from "./Habitat.tsx";
+import Kunjiraman from "./Kunjiraman";
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
-    <Habitat />
+    <Kunjiraman />
   </StrictMode>
 );
